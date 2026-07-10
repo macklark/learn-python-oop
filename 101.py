@@ -1,6 +1,8 @@
 class Driver:
     def __init__(self, first_name, last_name, team):
         # The following below are all attributes of our class.
+        # These are also called instance variables, instance variables are unique for each instance
+        # The 'self' phrase here indicates the instance itself
         self.first_name = first_name
         self.last_name = last_name
         self.team = team
