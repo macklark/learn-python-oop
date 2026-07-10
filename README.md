@@ -6,5 +6,6 @@ my notes and code while learning OOPS with python
 - [class_variables](https://github.com/macklark/learn-python-oop/blob/main/class_variables.py)
 - [class_methods](https://github.com/macklark/learn-python-oop/blob/main/class_methods.py)
 - [static_methods](https://github.com/macklark/learn-python-oop/blob/main/static_methods.py)
+- [inheritance](https://github.com/macklark/learn-python-oop/blob/main/inheritance.py)
 ---
 source - [corey schafer](https://www.youtube.com/@coreyms)
